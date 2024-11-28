@@ -1,3 +1,4 @@
-<div align="center">
-    <img src="space-logo.svg" />
-</div>
+
+## 💅🏻 about me 
+- aspiring **CSS** witch
+- **IT** student
